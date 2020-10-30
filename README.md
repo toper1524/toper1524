@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toper1524&label=Profile%20views&color=0e75b6&style=flat" alt="toper1524" /> </p>
 
-- 🔭 I’m currently working on [momentum](https://github.com/rolling-scopes-school/toper1524-JS2020Q3/tree/momentum)
+- 🔭 I’m currently working on [Twitch Hunter](https://github.com/toper1524/twitch_hunter)
 
 - 🌱 I’m currently learning **in RS school**
 
